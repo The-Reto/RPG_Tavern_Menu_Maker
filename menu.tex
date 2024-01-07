@@ -1,0 +1,62 @@
+\documentclass[letterpaper,openany,nodeprecatedcode, 14pt]{dndbook}
+
+
+\usepackage[english]{babel}
+%\usepackage[italian]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+\MakeShortVerb{|}
+
+\newcolumntype{b}{>{\large\raggedleft\arraybackslash\hsize=.5\hsize}X}
+\newcolumntype{s}{>{\large\raggedright\arraybackslash\hsize=1.5\hsize}X}
+\newcolumntype{j}{>{\large\raggedright\arraybackslash\hsize=1\hsize}X}
+\newcolumntype{k}{>{\large\raggedleft\arraybackslash\hsize=.5\hsize}X}
+
+%% Commands for food and drinks
+%%
+% Food: command example use \foodEntry{foodName}{foodPrice}
+\newcommand{\foodEntry}[2]{ #1 & #2 \\ \noalign{\vspace{4pt}} }
+% Drinks: command example use \drinkEntry{drinkName}{sizeName1}{price1}{sizeName2}{price2}
+\newcommand{\drinkEntry}[5]{ #1 & #2 & #3 \\ & #4 & #5 \\ \noalign{\vspace{4pt}} }
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\begin{document}
+\chapter*{:InnName}
+\section{Menu}
+
+\subsection{}
+
+\subsection{Mains}
+\noindent
+\begin{tabularx}{\textwidth}{ s b }
+\end{tabularx}
+
+\vspace{0.5mm}
+
+\subsection{}
+\subsection{Drinks}
+
+
+\begin{tabularx}{\textwidth}{ j k b }
+\end{tabularx}
+
+
+\fancyfoot{} 
+\fancyfoot[LE,RO]{Tap water caraffe for free.}
+\fancyfoot[LO,CE]{All products are collected fresh from the region.}
+\end{document}
+

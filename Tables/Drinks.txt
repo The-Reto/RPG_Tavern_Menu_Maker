@@ -1,0 +1,65 @@
+Kobold Kombucha;2
+Iron Brew Ale;1
+Mystic Amber Lager;2
+Goblin Gold Stout;1
+Dragon's Breath Pale Ale;2
+Wandering Wizard Wheat;1
+Feywild Forest Porter;1
+Dwarven Forge Lager;0
+Elven Starlight Pilsner;0
+Griffon's Roost Red;1
+Trollsbane Triple Ale;2
+Moonlit Moss Ale;0
+Frost Giant Frostbite IPA;1
+Ogre's Delight Dunkel;1
+Centaur's Serenade Cider;1
+Banshee's Wail Barleywine;2
+Wyrmfire Whiskey Wheatwine;2
+Harvest Honey Ale;0
+Basilisk's Gaze Bitter Ale;0
+Farmhouse Ale;0
+Melody Mead;1
+Minotaur Malt;0
+Harpy's Harmony Hefeweizen;1
+Halflings's Nectar Lager;0
+Lich's Lament Lager;0
+Ogre Oatmeal Stout;0
+Gnomish Ginger Beer;2
+Phoenix Fire Porter;2
+Symphony Stout;1
+Caramel Cream Ale;2
+Ogre's Oatmeal Ale;0
+Spruce Tip IPA;1
+Grapefruit Radler;1
+Dragon's Tear Dopplebock;0
+Mocha Milk Stout;1
+Blush Barleywine;2
+Hops Harvest Ale;0
+Elemental Ember ESB (Extra Special Bitter);1
+Golem's Gargle Ginger Lager;0
+Moonlit Merlot;1
+Enchanted Elixir Cabernet;1
+Faerie Fume Pinot Noir;2
+Elven Elegance Chardonnay;2
+Centaur's Cellar Sauvignon Blanc;2
+Goblin Grapes Gamay;1
+Dwarven Delight;1
+Blush Rosé;2
+Chimera's Choice Chianti;0
+Dragon's Blood;2
+Gorgon's Grapes;1
+Wandering Wizard White;2
+Phoenix Fire Pinot Grigio;1
+Frost Giant Frostbite Ice Wine;2
+Golem's Gold Veltliner;1
+Halfling's Harvest Hearty Red;1
+Wyrmwood Winery White Port;2
+Gnome's Glimmer;1
+Elemental Essence;2
+Wraith's Whisper White Merlot;1
+Ogre's Orchard Orange Muscat;2
+Dryad's Dewdrop Dry Riesling;2
+Dwarven Dawn Dessert Wine;2
+Faerie Froth Fumé Blanc;1
+Moonshadow Moscato;2
+Wyrmfire Winery Watermelon Wine;2

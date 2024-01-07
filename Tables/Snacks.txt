@@ -1,0 +1,8 @@
+Common Breakfast (1 Piece of Bread, Butter, 1 Glass of Milk);0
+Breakfast (1 Croissant, Honey, Cheese, Yoghurt, Coffee or Tea);1
+Kings Breakfast (1 Croissant, Honey, Fruit-Jam, Yoghurt, Cheese, dried Meats, free drinks);2
+Cheese Platter;0
+Salmon Rolls;2
+Smoked Salmon Platter with home made bread;2
+Avocado and Artichoke Appetizer; 2
+Asparagus Appetizer; 1

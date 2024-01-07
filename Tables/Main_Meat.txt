@@ -1,0 +1,63 @@
+Venison Stewed; 1
+Darkmantle Soufflé; 2
+Griffin Shanks; 2
+Pseudodragon on a Stick; 2
+Rack of Owlbear Ribs; 1
+Stag Steak & Dire Lobster (Surf and Turf); 2
+Squeaver Chili; 2
+Spicy Jambalaya; 1
+Goat Stew; 0
+Sauteed Partridge in a Black Raspberry Reduction Sauce; 2
+Roasted Tarantula; 1
+Chicken Minced Pies; 0
+Meatloaf; 0
+Pastry-wrapped Goat; 1
+Lamb on a Bed of Fireroot Leaves; 1
+Rabbit in a Wine-Currant Sauce; 1
+Sweet and Sour Cockatrice; 2
+Chimera Steak; 2
+Mutton Chops; 1
+Drake Steak; 2
+Deep-fried Drake Tail; 2
+Giant Centipede Stew; 2
+Wild Boar Sausages; 1
+Pickled Purple Worm; 2
+Minotaur Patties; 2
+Stewed Mule Flanks; 1
+Boar Bone Soup; 1
+Baked Bear; 1
+Boiled Sausage and Sharp Cheese; 0
+Bat Meat in Dried-out Wing; 2
+Underdark Paella (Rice, Underdark Spider Eggs, and Shrieker Meat); 2
+Gorgon Roast; 2
+Skewered Manticore; 2
+Flail Snail Escargot; 2
+Giant Scorpion Tail; 2
+Sliced Troll Liver; 2
+Phoenix Quiche; 2
+Beef-stuffed Biscuits; 1
+Troll Stir-fry; 2
+Basilisk Bratwurst; 1
+Hydra Hash; 2
+Ogre Omelette; 2
+Succubus Skewers; 2
+Gravy-soaked Gizzards; 1
+Nightmare Noodles; 0
+Unicorn Filet with Stardust Glaze; 2
+Elemental Essence-infused Elk; 2
+Wyvern Wing Drumsticks; 1
+Basilisk Burger; 1
+Sausage Sampler; 0
+Ember-infused Entrecôte; 2
+Shadowfiend Stroganoff; 2
+Beholder Borscht; 2
+Owlbear Cheesesteak; 1
+Mind Flayer Miso Soup; 2
+Wraith Wellington; 2
+Boar Saffron Risotto; 2
+Lamia Lemonade-Grilled Loin; 1
+Kraken Kebabs; 2
+Treant Tandoori; 1
+Barghest BBQ Ribs; 2
+Dryad Delight (Beef Stew); 0
+Lamb Chops; 2

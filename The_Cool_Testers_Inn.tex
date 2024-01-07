@@ -1,0 +1,85 @@
+\documentclass[letterpaper,openany,nodeprecatedcode, 14pt]{dndbook}
+
+
+\usepackage[english]{babel}
+% For further options (multilanguage documents, hypenations, language environments...)
+% please refer to babel/polyglossia's documentation.
+
+\usepackage[utf8]{inputenc}
+\usepackage[singlelinecheck=false]{caption}
+\usepackage{lipsum}
+\usepackage{listings}
+\usepackage{shortvrb}
+\usepackage{stfloats}
+\usepackage{tabularx}
+\usepackage{fancyhdr}
+\MakeShortVerb{|}
+
+\newcolumntype{b}{>{\large\raggedleft\arraybackslash\hsize=.5\hsize}X}
+\newcolumntype{s}{>{\large\raggedright\arraybackslash\hsize=1.5\hsize}X}
+\newcolumntype{j}{>{\large\raggedright\arraybackslash\hsize=1\hsize}X}
+\newcolumntype{k}{>{\large\raggedleft\arraybackslash\hsize=.5\hsize}X}
+
+%% Commands for food and drinks
+%%
+% Food: command example use \foodEntry{foodName}{foodPrice}
+\newcommand{\foodEntry}[2]{ #1 & #2 \\ \noalign{\vspace{4pt}} }
+% Drinks: command example use \drinkEntry{drinkName}{sizeName1}{price1}{sizeName2}{price2}
+\newcommand{\drinkEntry}[5]{ #1 & #2 & #3 \\ & #4 & #5 \\ \noalign{\vspace{4pt}} }
+
+\lstset{%
+  basicstyle=\ttfamily,
+  language=[LaTeX]{TeX},
+  breaklines=true,
+}
+
+\begin{document}
+\chapter*{The Cool Testers Inn}
+\section{Menu}
+
+\subsection{}
+
+\subsection{Mains}
+\noindent
+\begin{tabularx}{\textwidth}{ s b }
+\foodEntry{Common Breakfast (1 Piece of Bread, Butter, 1 Glass of Milk)}{2.8 SP}
+\foodEntry{Kings Breakfast (1 Croissant, Honey, Fruit-Jam, Yoghurt, Cheese, dried Meats, free drinks)}{2.6 SP}
+\foodEntry{Avocado and Artichoke Appetizer}{3.5 SP}
+\foodEntry{Cheese Platter}{2.9 SP}
+\foodEntry{Breakfast (1 Croissant, Honey, Cheese, Yoghurt, Coffee or Tea)}{3.1 SP}
+\foodEntry{Salted Catfish served with Octopus Escabeche, Marinated Kelp and Seaside Seaweed Sauté}{4.5 SP}
+\foodEntry{Siren's Song Sushi Platter served with Dill-infused Dolphin and Crab Dip}{5.4 SP}
+\foodEntry{Lich's Lemony Lentils served with thinly-sliced shrieker, Salted Cucumber Spears and Shrimp and Seashell Gumbo}{5.8 SP}
+\foodEntry{Lavender-infused Leeks served with Seared Sea Snails with Herb Butter, Marinated Kelp and Abyssal peppers}{5.8 SP}
+\foodEntry{Rice-filled Tomatoes served with Chilled Seaweed, Sardine Sushi and Sea Bass Spring Rolls with Soy Dipping Sauce}{5.1 SP}
+\foodEntry{Elemental Eggplant Parmesan served with Anchovy-stuffed Squid and Sea Urchin Uni}{5.4 SP}
+\foodEntry{Pistachio Panna Cotta}{3.5 SP}
+\foodEntry{Elemental Essence-infused Elderflower Éclairs}{2.9 SP}
+\foodEntry{Dark Chocolate Dipped Dates}{2.6 SP}
+\foodEntry{Blackberry Brownies}{2.7 SP}
+\end{tabularx}
+
+\vspace{0.5mm}
+
+\subsection{}
+\subsection{Drinks}
+
+
+\begin{tabularx}{\textwidth}{ j k b }
+\drinkEntry{House Wine}{Cup}{1.4 SP}{Jug}{5.6 SP}
+\drinkEntry{Basilisk's Gaze Bitter Ale}{Cup}{1.4 SP}{Jug}{7.0 SP}
+\drinkEntry{Moonlit Merlot}{Cup}{1.6 SP}{Jug}{8.0 SP}
+\drinkEntry{Centaur's Serenade Cider}{Cup}{1.6 SP}{Jug}{6.4 SP}
+\drinkEntry{Dwarven Delight}{Cup}{1.6 SP}{Jug}{8.0 SP}
+\drinkEntry{Halfling's Harvest Hearty Red}{Cup}{1.7 SP}{Jug}{6.8 SP}
+\drinkEntry{Wyrmfire Whiskey Wheatwine}{Cup}{1.8 SP}{Jug}{7.2 SP}
+\drinkEntry{Goblin Grapes Gamay}{Cup}{1.7 SP}{Jug}{6.8 SP}
+\drinkEntry{Golem's Gargle Ginger Lager}{Cup}{1.4 SP}{Jug}{7.0 SP}
+\drinkEntry{Dragon's Breath Pale Ale}{Cup}{1.7 SP}{Jug}{8.5 SP}
+\end{tabularx}
+
+
+\fancyfoot{} 
+\fancyfoot[LE,RO]{Tap water caraffe for free.}
+\fancyfoot[LO,CE]{All products are collected fresh from the region.}
+\end{document}

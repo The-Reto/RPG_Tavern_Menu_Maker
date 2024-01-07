@@ -1,0 +1,55 @@
+Blubber Baked Barnacles; 1
+Stag Steak & Dire Lobster (Surf and Turf); 2
+Illithid Larva in Squid Ink; 2
+Kraken Calamari; 2
+Giant Crayfish Tail Sautéed in Butter; 2
+Poached Trout; 1
+Salted Catfish; 1
+Salmon Tartare; 2
+Fish Stew; 1
+Mussels Soup; 1
+Seaweed Soup; 1
+Pirate's Platter (Assorted Grilled Seafood); 2
+Mariner's Medley (Mixed Shellfish and Fish); 2
+Smoked Swordfish with Citrus Glaze; 2
+Lobster Bisque; 2
+Siren's Song Sushi Platter; 2
+Deep Sea Delight (Fried Shrimp and Calamari); 1
+Neptune's Nectar (Clam Chowder with Bacon); 1
+Coral Reef Risotto with Octopus; 2
+Seared Mermaid Medallions with Lemon Butter; 2
+Elven Eel Roll with Avocado; 2
+Pirate's Bounty Seafood Gumbo; 2
+Sunken City Cioppino (Mixed Seafood Stew); 2
+Goblin Shark Gratin; 2
+Cursed Caviar with Ghost Pepper; 2
+Dolphin Delight (Grilled Mahi-Mahi); 1
+Enchanted Eel Enchiladas; 2
+Triton's Treasure (Lobster Tail with Truffle Butter); 2
+Wyrmfish Wellington; 2
+Giant Crab Curry; 2
+Abalone Alfredo with Black Truffles; 2
+Siren's Kiss Scallops with Lemon Herb Butter; 2
+Sharknado Sashimi Platter; 2
+Leviathan Linguine with Clams and Chorizo; 2
+Coral Cauldron Crab Cakes; 2
+Ocean Oracle Oysters Rockefeller; 2
+Deep Diver's Delight (Grilled Lobster and Shrimp); 2
+Enchanted Eel Egg Rolls; 2
+Sea Witch's Spaghetti with Clam Sauce; 1
+Mystic Mackerel Miso Soup; 1
+Celestial Crab Salad with Moonlit Vinaigrette; 2
+Dragon's Breath Broiled Barracuda; 2
+Elven Seafood Sizzler; 2
+Seaside Sardine Sandwich; 0
+Shrimp Platter (Fried Shrimp with Fries); 0
+Catch of the Day Tacos; 0
+Harbor Haddock Hash; 0
+Sailor's Stew (Mixed Fish and Vegetables); 0
+Clam Chowder in Bread Bowl; 0
+Salty Sea Snack Platter (Assorted Nuts and Dried Fish); 0
+Maritime Muffin Melange; 0
+Kelp Krisps on a Creamy Crab Dip; 0
+Sailor's Slaw with Citrus Dressing; 0
+Trawler's Tomato on Tuna Toast; 0
+Mermaid Miso in Mushroom Soup; 0

@@ -1,0 +1,61 @@
+a fried egg;0
+hollandaise sauce;2
+extra sharp dire goat cheese;1
+grilled onions;0
+Grilled Artichokes;0
+grilled carrots;0
+capers;0
+chicory;0
+salad;0
+a Tankard of Beer;0
+Battered Fried Green Beans;0
+Sauteed Spinach;0
+Frybread and pumpkin butter;2
+rice in a stone bowl;1
+Oat porridge;0
+a Glass of Brandy;2
+Feywild Flatbread;2
+Hummus;2
+Cornbread Muffins;1
+Roasted Garlic Bulbs;0
+Wild Rice Pilaf;2
+Nectarine Chutney;2
+Cherry Tomato Skewers;1
+Root Vegetable Mash;0
+Citrus Caprese;2
+Fig and Walnut Couscous;1
+Garlic Knots;1
+Elderberry Salad;1
+Ale-braised Brussel Sprouts;1
+Sweet Potato Fries;1
+Stuffed Bell Peppers;1
+a Corn on the Cob;0
+Potato Croquettes;1
+Chili-infused Cornbread;1
+Cumin-spiced Cauliflower Bites;2
+Honey-glazed Parsnips;1
+Grilled Eggplant;0
+Fruit-infused Bulgur Pilaf;2
+Basil Pesto Pasta Salad;2
+Onion Rings;0
+Grilled Zucchini Ribbons;0
+Lemon Herb Roasted Potatoes;1
+Sourdough rolls;1
+garnish of parsley;0
+assorted fruits, nuts, and cheeses;2
+lingonberrys;1
+Wild Mushroom Rice;1
+Grilled Jalapeños;1
+a strip of bear jerky;1
+a wedge of ripe cheese;1
+scrambled quail eggs;0
+berry gravy;1
+A platter of assorted fruits;2
+Walnut Bread;2
+Mulberry Tart;1
+Herb-infused Quinoa Salad;2
+Stuffed Mushrooms;0
+Forest Berry Salad;1
+Citrus Couscous;2
+Flame-Charred Asparagus;1 
+Forest Fungi Sauté;2
